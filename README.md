@@ -1,4 +1,5 @@
-# OIBSIP_Python_Programming_takno3
+# OIBSIP_Python_Programming_Task_3
+Secure Password Generator with Tkinter
 ---
 
  🎯 Objective  
